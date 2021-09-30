@@ -1,0 +1,13 @@
+import react from 'react';
+import reactDom from 'react-dom';
+
+const Post = () => {
+    return (
+        <div className="Post">
+            <h2>Likes </h2>
+
+        </div>
+
+    )
+}
+export default Post;
